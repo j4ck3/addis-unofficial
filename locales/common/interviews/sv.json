@@ -1,0 +1,16 @@
+{
+    "interviews": {
+        "interviews": "intervjuer",
+        "create_new": "skapa en ny Intervjuv",
+        "form_type": "formulärtyp",
+        "open_client_side": "öppna clientsidan",
+        "search": "sök",
+
+        "date": "datum",
+        "uno": "UNO kod",
+        "interviewer": "intervjuare",
+        "status": "status"
+
+    }
+}
+  

@@ -1,0 +1,12 @@
+{
+    "navigation": {
+        "interviews": "interviews",
+        "administer": "administer",
+        "manuals": "manuals",
+        "questionnaire": "questionnaire",
+        "logotypes": "logotypes",
+        "logout": "log out",
+        "login": "log in"
+    }
+}
+  

@@ -1,0 +1,10 @@
+{
+   "printWidth": 90,
+   "tabWidth": 3,
+   "semi": false,
+   "tsxBracketSameLine": false,
+   "singleQuote": true,
+   "useTabs": true,
+   "tsxSingleQuote": true,
+   "jsxSingleQuote": true
+}

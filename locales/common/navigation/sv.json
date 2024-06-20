@@ -1,0 +1,11 @@
+{
+    "navigation": {
+        "interviews": "intervjuer",
+        "administer": "administrera",
+        "manuals": "manualer",
+        "questionnaire": "frågeformulär",
+        "logotypes": "logotyper",
+        "logout": "logga ut",
+        "login": "logga in"
+    }
+}
