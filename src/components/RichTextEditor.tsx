@@ -6,11 +6,12 @@ type Props = {
 	html: string
 }
 
+
 const RichTextEditor:React.FC<Props> = ({html}) => {
 	const handleEditorChange = (content: any, editor: any) => {}
 	return (
 		<Editor
-			apiKey='s905bq0dsc1abdtzwzitzaws0j13cl8m29icldwjf5myd6pj'
+			apiKey={process.env.NEXT_PUBLIC_TINY_MCE}
 			initialValue={html}
 			init={{
 				height: 500,
